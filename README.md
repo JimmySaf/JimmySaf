@@ -15,7 +15,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hey%2C+I'm+Jimmy+Safari!;💻+Full+Stack+Developer+from+Kenya;🌍+Building+for+Africa+and+the+World;⚡+React+%7C+Next.js+%7C+Node.js+%7C+PHP;🤖+Exploring+AI+%26+Cloud+Computing;🎓+BSc+Software+Engineering+@+KyU;🚀+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&lines=+Hey%2C+I'm+Jimmy+Safari!;+Full+Stack+Developer+from+Kenya;+Building+for+Africa+and+the+World;+React+%7C+Next.js+%7C+Node.js+%7C+PHP;+Exploring+AI+%26+Cloud+Computing;+BSc+Software+Engineering+@+KyU;+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL / CONTACT BADGES                      -->
@@ -25,7 +25,7 @@
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-2c5364?style=for-the-badge"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:safarijimmy25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -37,11 +37,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/JimmySaf">
+    <img src="https://komarev.com/ghpvc/?username=JimmySaf&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=203a43&labelColor=0f2027&label=FOLLOWERS&logo=github"/>
+  <a href="https://github.com/JimmySaf?tab=followers">
+    <img src="https://img.shields.io/github/followers/JimmySaf?style=for-the-badge&color=203a43&labelColor=0f2027&label=FOLLOWERS&logo=github"/>
   </a>
 </p>
 
@@ -103,24 +103,24 @@ const jimmy: Developer = {
 
 <table align="center">
   <tr>
-    <td>🔭 <b>Working on</b></td>
+    <td <b>Working on</b></td>
     <td>Full stack web apps, church & business websites</td>
   </tr>
   <tr>
-    <td>🌱 <b>Currently learning</b></td>
+    <td> <b>Currently learning</b></td>
     <td>AI integration · Docker · Cloud (AWS) · PostgreSQL advanced · System Design</td>
   </tr>
   <tr>
-    <td>👯 <b>Open to collaborate</b></td>
+    <td> <b>Open to collaborate</b></td>
     <td>Open source projects, impactful African tech solutions</td>
   </tr>
   <tr>
-    <td>🎯 <b>2025 Goals</b></td>
+    <td> <b>2025 Goals</b></td>
     <td>Ship 5 production apps · Contribute to OSS · AWS certification</td>
   </tr>
   <tr>
-    <td>💬 <b>Ask me about</b></td>
-    <td>React, Next.js, Node.js, PHP, REST APIs, MySQL</td>
+    <td> <b>Ask me about</b></td>
+    <td>React, Next.js, Node.js, PHP, REST APIs, MySQL, AI</td>
   </tr>
 </table>
 
@@ -130,9 +130,9 @@ const jimmy: Developer = {
 <!--                      TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 🎨 Frontend
+###  Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
