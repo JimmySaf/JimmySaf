@@ -1,5 +1,7 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!- ANIMATED HEADER BANNER -->
 
 
 <div align="center">
@@ -7,7 +9,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=220&section=header&text=Jimmy%20Safari&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kenya%20🇰🇪&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 
-<!-  TYPING ANIMATION   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hey%2C+I'm+Jimmy+Safari!;💻+Full+Stack+Developer+from+Kenya;🌍+Building+for+Africa+and+the+World;⚡+React+%7C+Next.js+%7C+Node.js+%7C+PHP;🤖+Exploring+AI+%26+Cloud+Computing;🎓+BSc+Software+Engineering+@+KyU;🚀+Open+Source+Enthusiast)](https://git.io/typing-svg)
