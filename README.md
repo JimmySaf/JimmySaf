@@ -1,14 +1,14 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!- ANIMATED HEADER BANNER -->
+
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=220&section=header&text=Jimmy%20Safari&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kenya%20🇰🇪&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-  TYPING ANIMATION   -->
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hey%2C+I'm+Jimmy+Safari!;💻+Full+Stack+Developer+from+Kenya;🌍+Building+for+Africa+and+the+World;⚡+React+%7C+Next.js+%7C+Node.js+%7C+PHP;🤖+Exploring+AI+%26+Cloud+Computing;🎓+BSc+Software+Engineering+@+KyU;🚀+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -94,7 +94,7 @@ const jimmy: Developer = {
 <!--                   CURRENT STATUS                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🔭 What I'm Up To
+##  What I'm Up To
 
 <table align="center">
   <tr>
@@ -116,10 +116,6 @@ const jimmy: Developer = {
   <tr>
     <td>💬 <b>Ask me about</b></td>
     <td>React, Next.js, Node.js, PHP, REST APIs, MySQL</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Fun fact</b></td>
-    <td>I debug faster with lo-fi music playing 🎵</td>
   </tr>
 </table>
 
@@ -156,7 +152,7 @@ const jimmy: Developer = {
   <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -164,7 +160,7 @@ const jimmy: Developer = {
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -174,7 +170,7 @@ const jimmy: Developer = {
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -206,7 +202,7 @@ const jimmy: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&ring_color=2c5364"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JimmySaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&ring_color=2c5364"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9"/>
 
 </div>
