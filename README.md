@@ -4,9 +4,7 @@
 
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=220&section=header&text=Jimmy%20Safari&fontSize=65&fontColor=ffffff&fontAlignY=Software Engineer%2Kenya%20🇰🇪&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=220&section=header&text=Jimmy%20Safari&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Kenya%20🇰🇪&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
