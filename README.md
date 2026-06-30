@@ -434,7 +434,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <!--                    DEVELOPER QUOTE                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 💬 Dev Quote of the Day
+## Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
@@ -452,7 +452,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <!--                     CONNECT WITH ME                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
