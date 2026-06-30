@@ -26,7 +26,7 @@
   <a href="mailto:safarijimmy25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jimmy-safari-482b82310" target="_blank">
+  <a href="https://www.linkedin.com/in/jimmy-safari-482b82310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/MY_TWITTER" target="_blank">
