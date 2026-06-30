@@ -361,10 +361,10 @@ const jimmy: Developer = {
 
 <table align="center" width="100%">
   <tr>
-    <th>🏅 Certificate</th>
-    <th>🏢 Issuer</th>
-    <th>📅 Year</th>
-    <th>🔗 Verify</th>
+    <th> Certificate</th>
+    <th> Issuer</th>
+    <th> Year</th>
+    <th> Verify</th>
   </tr>
   <tr>
     <td>AWS Cloud Practitioner</td>
@@ -426,40 +426,8 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB GOALS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-##  GitHub Goals
-
-```
-✅  Build impactful, production-ready applications
-🔄  Contribute to open source projects (in progress)
-📌  Collaborate with developers worldwide
-📌  Learn advanced backend architecture & system design
-📌  Build scalable, cloud-deployed applications
-📌  Earn AWS Cloud Practitioner certification
-📌  Reach 500+ GitHub followers
-```
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-##  Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-> **⚙️ Setup:** Add the [snk GitHub Action](https://github.com/Platane/snk) to your profile repository to enable this animation.
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -477,21 +445,6 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      FUN FACTS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-##  Fun Facts
-
-<div align="center">
-
-| # | Fact |
-|---|------|
-| ☕ | I write cleaner code after a hot cup of Kenyan chai |
-| 🌍 | I believe technology can transform Africa |
-| 🙏 | My very first project was a church website |
-| 🌙 | Night owl — best ideas hit after midnight |
-| 🐛 | I enjoy debugging almost as much as building |
-
-
-</div>
 
 ---
 
@@ -524,7 +477,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Instagram-@MY__INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61577400520305" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-YOUR__FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
