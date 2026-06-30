@@ -413,14 +413,14 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <!--                    INTERESTS                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 💡 Interests
+## Interests
 
 <div align="center">
 
-| 🌐 Full Stack Dev |  Artificial Intelligence | 🔓 Open Source |
+|  Full Stack Dev |  Artificial Intelligence | Open Source |
 |:---:|:---:|:---:|
-| 🎨 UI/UX Design | ☁️ Cloud Computing | 📱 Mobile Development |
-| 🔒 Web Security | 🌍 Networking | 🏗️ System Design |
+|  UI/UX Design | ☁️ Cloud Computing |  Mobile Development |
+|  Web Security |  Networking |  System Design |
 
 </div>
 
@@ -430,7 +430,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <!--                      GITHUB GOALS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🎯 GitHub Goals
+##  GitHub Goals
 
 ```
 ✅  Build impactful, production-ready applications
@@ -478,7 +478,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <!--                      FUN FACTS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ⚡ Fun Facts
+##  Fun Facts
 
 <div align="center">
 
@@ -504,15 +504,15 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <div align="center">
 
 <a href="https://jimmy-safari-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-YOUR__PORTFOLIO__URL-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-MY__PORTFOLIO__URL-2c5364?style=for-the-badge"/>
 </a>
 <br/><br/>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-YOUR__EMAIL%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:jimmysafari345@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-MY__EMAIL%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/jimmy-safari-482b82310)/in/MY_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
