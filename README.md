@@ -369,13 +369,13 @@ const jimmy: Developer = {
   <tr>
     <td>AWS Cloud Practitioner</td>
     <td>Amazon Web Services</td>
-    <td>In Progress 🔄</td>
+    <td>In Progress </td>
     <td><i>Coming soon</i></td>
   </tr>
   <tr>
     <td>Meta Front-End Developer</td>
     <td>Coursera / Meta</td>
-    <td>Planned 📌</td>
+    <td>Planned </td>
     <td><i>Coming soon</i></td>
   </tr>
   <tr>
@@ -512,16 +512,16 @@ AI / ML Integration    ███████░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Gmail-MY__EMAIL%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/jimmy-safari-482b82310)/in/MY_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/jimmy-safari-482b82310)/in/MY_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%2FX-@YOUR__TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter%2FX-@MY__TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@YOUR__INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@MY__INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
@@ -529,12 +529,12 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 </a>
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-YOUR__DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-MY__DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-> 📬 I'm open to **internships, collaborations, freelance projects, and entry-level roles.**  
+>  I'm open to **internships, collaborations, freelance projects, and entry-level roles.**  
 > Drop me an email — I reply within 24 hours. 
 
 </div>
@@ -548,11 +548,11 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,60:203a43,100:0f2027&height=130&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>⚡ Made with ❤️ from <b>Kilifi, Kenya 🇰🇪</b> by <b>Jimmy Safari</b> · Updated regularly</sub>
+  <sub>2026 All Rights Reserved <b>Kilifi, Kenya 🇰🇪</b> by <b>Jimmy Safari</b> · Updated regularly</sub>
   <br/>
   <sub>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">⭐ Star this profile</a> ·
-    <a href="mailto:YOUR_EMAIL@gmail.com">📧 Get in touch</a> ·
-    <a href="https://YOUR_PORTFOLIO_URL">🌐 View portfolio</a>
+    <a href="https://github.com/JimmySaf"> Star this profile</a> ·
+    <a href="mailto:safarijimmy25@gmail.com"> Get in touch</a> ·
+    <a href="https://jimmy-safari-portfolio.vercel.app/"> View portfolio</a>
   </sub>
 </div>
