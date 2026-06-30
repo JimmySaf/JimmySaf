@@ -221,7 +221,7 @@ const jimmy: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=38BDF8&line=2c5364&point=38BDF8&hide_border=true&area=true&area_color=2c5364" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JimmySaf&bg_color=0d1117&color=38BDF8&line=2c5364&point=38BDF8&hide_border=true&area=true&area_color=2c5364" width="100%"/>
 </div>
 
 ---
