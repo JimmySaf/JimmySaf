@@ -233,7 +233,7 @@ const jimmy: Developer = {
 ##  GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JimmySaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
 </div>
 
 ---
