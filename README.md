@@ -81,10 +81,8 @@ const jimmy: Developer = {
   ],
 
   funFacts: [
-    "I write cleaner code after a cup of chai ☕",
-    "I believe tech can transform Kenya 🌍",
-    "My first project was a church website 🙏",
-    "Night owl coder — best ideas at midnight 🌙",
+    "I write cleaner code after a cup of chai ",
+    "I believe tech can transform Kenya ",
   ],
 
   openTo: "Internships, collaborations & impactful projects",
@@ -106,7 +104,7 @@ const jimmy: Developer = {
   </tr>
   <tr>
     <td> <b>Currently learning</b></td>
-    <td>AI integration · Docker · Cloud (AWS) · PostgreSQL advanced · System Design</td>
+    <td>AI integration · Docker · Cloud (AWS) · backend advanced · System Design</td>
   </tr>
   <tr>
     <td> <b>Open to collaborate</b></td>
@@ -146,7 +144,7 @@ const jimmy: Developer = {
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -185,7 +183,7 @@ const jimmy: Developer = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -201,7 +199,7 @@ const jimmy: Developer = {
 <!--                    GITHUB STATISTICS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -232,7 +230,7 @@ const jimmy: Developer = {
 <!--                      GITHUB TROPHIES                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
@@ -244,12 +242,12 @@ const jimmy: Developer = {
 <!--                    FEATURED PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⛪ International Christian Org Website</h3>
+      <h3 align="center"> International Christian Org Website</h3>
       <div align="center">
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -269,7 +267,7 @@ const jimmy: Developer = {
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧑‍💼 Personal Portfolio Website</h3>
+      <h3 align="center" Personal Portfolio Website</h3>
       <div align="center">
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -282,7 +280,7 @@ const jimmy: Developer = {
           <a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio">
             <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://YOUR_PORTFOLIO_URL">
+          <a href="https://jimmy-safari-portfolio.vercel.app/">
             <img src="https://img.shields.io/badge/Live_Demo-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
@@ -291,7 +289,7 @@ const jimmy: Developer = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📚 Book Inventory System</h3>
+      <h3 align="center"> Book Inventory System</h3>
       <div align="center">
         <p>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -308,7 +306,7 @@ const jimmy: Developer = {
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏛️ County Assembly ICT Systems</h3>
+      <h3 align="center"> County Assembly ICT Systems</h3>
       <div align="center">
         <p>
           <img src="https://img.shields.io/badge/Network-00599C?style=flat-square&logo=cisco&logoColor=white"/>
@@ -330,14 +328,14 @@ const jimmy: Developer = {
 <!--                  EDUCATION                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🎓 Education
+##  Education
 
 <table align="center" width="100%">
   <tr>
-    <th>🏫 Institution</th>
-    <th>📖 Qualification</th>
-    <th>📍 Location</th>
-    <th>📅 Period</th>
+    <th> Institution</th>
+    <th> Qualification</th>
+    <th> Location</th>
+    <th> Period</th>
   </tr>
   <tr>
     <td><b>Kirinyaga University</b></td>
@@ -359,7 +357,7 @@ const jimmy: Developer = {
 <!--                    CERTIFICATIONS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📜 Certifications
+##  Certifications
 
 <table align="center" width="100%">
   <tr>
@@ -394,7 +392,7 @@ const jimmy: Developer = {
 <!--                    SKILL PROFICIENCY                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🎯 Skill Proficiency
+##  Skill Proficiency
 
 ```text
 React / Next.js        ████████████████████░   90%
@@ -419,7 +417,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 
 <div align="center">
 
-| 🌐 Full Stack Dev | 🤖 Artificial Intelligence | 🔓 Open Source |
+| 🌐 Full Stack Dev |  Artificial Intelligence | 🔓 Open Source |
 |:---:|:---:|:---:|
 | 🎨 UI/UX Design | ☁️ Cloud Computing | 📱 Mobile Development |
 | 🔒 Web Security | 🌍 Networking | 🏗️ System Design |
@@ -450,7 +448,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <!--                    CONTRIBUTION SNAKE                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
@@ -491,7 +489,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 | 🙏 | My very first project was a church website |
 | 🌙 | Night owl — best ideas hit after midnight |
 | 🐛 | I enjoy debugging almost as much as building |
-| 🎵 | I code 2x faster with lo-fi music in my ears |
+
 
 </div>
 
@@ -505,7 +503,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+<a href="https://jimmy-safari-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-YOUR__PORTFOLIO__URL-2c5364?style=for-the-badge"/>
 </a>
 <br/><br/>
