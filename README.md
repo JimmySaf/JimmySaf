@@ -20,16 +20,16 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://jimmy-safari-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-2c5364?style=for-the-badge"/>
   </a>
   <a href="mailto:safarijimmy25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jimmy-safari-482b82310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com/MY_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
@@ -379,7 +379,7 @@ const jimmy: Developer = {
     <td><i>Coming soon</i></td>
   </tr>
   <tr>
-    <td>Add your certifications here</td>
+    <td>Other certifications </td>
     <td>—</td>
     <td>—</td>
     <td>—</td>
