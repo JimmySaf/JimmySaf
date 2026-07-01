@@ -501,7 +501,7 @@ AI / ML Integration    ███████░░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,60:203a43,100:0f2027&height=130&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>2026 All Rights Reserved <b>Kilifi, Kenya 🇰🇪</b> by <b>Jimmy Safari</b> · Updated regularly</sub>
+  <sub>2026 All Rights Reserved <b> Kenya 🇰🇪</b> by <b>Jimmy Safari</b> · Updated regularly</sub>
   <br/>
   <sub>
     <a href="https://github.com/JimmySaf"> Star this profile</a> ·
